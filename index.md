@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Password Generator</title>
-    <link rel="stylesheet" href= "css/stylesheet.css">
-</head>
-<body>
-    <h1>Password Generator 2019</h1>
+
    <div class="container">
 	<h2>Put a number between 8-128!</h2>
 	<div class="result-container">
@@ -43,6 +33,3 @@
 		Generate password
 	</button>
 </div>
-<script src="script.js"></script>
- </body>
-</html>
